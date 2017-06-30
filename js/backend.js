@@ -11,7 +11,7 @@ Finder.prototype.find = function(issues, key) {
     console.log(response);
 
     for(var i = 0; i < 5; i++) {
-    $('#showDoctor').append("<li>" + response.data[i].practices[0].name + "</li>" + "<li>" + '<img src="' + response.data[i].profile.image_url + '" alt=""/>' + "</li>");
+    $('#showDoctor').append("<a>" + response.data[i].practices[0].name + '<img src="' + response.data[i].profile.image_url + '" alt=""/>' + "</a>");
   }
      console.log(response.data[0].practices[0].name);
 
