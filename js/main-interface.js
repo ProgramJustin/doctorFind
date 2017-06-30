@@ -16,7 +16,7 @@ $.get('https://api.betterdoctor.com/2016-03-01/doctors?query='+ medicalIssue+'&l
   console.log(response);
 
   for(var i = 0; i < 5; i++) {
-  $('#showDoctor').append("<li>" + response.data[i].practices[0].name + "</li>" + '<img src="' + response.data[i].profile.image_url + '" alt=""/>');
+  $('#showDoctor').append("<li>" + response.data[i].practices[0].name + "</li>" + "<li>" + '<img src="' + response.data[i].profile.image_url + '" alt=""/>' + "</li>");
 }
    console.log(response.data[0].practices[0].name);
 

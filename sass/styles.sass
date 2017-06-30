@@ -12,8 +12,8 @@
 .getDoctor
   display: flex
   flex-direction: column
-  justify-content: center
   height: 300px
+  justify-content: flex-start
 
 
 .getDoctor form, h1
@@ -21,6 +21,16 @@
   align-self: center
 
 #showDoctor
-  align-self: center
+  align-self: flex-start
+  list-style: none
+  display: flex
+  flex-direction: column
+  height: 100%
   margin: auto
-  border: 1px solid green
+
+#showDoctor li
+  margin: 10px
+
+// #showDoctor li img
+//   width: 150px
+//   height: 250px
