@@ -25,8 +25,8 @@
 * http://jsonprettyprint.com/
 
 ### COMPLETE SET-UP INSTRUCTIONS
-1. DOWNLOAD OR CLONE FROM GITHUB REPOSITORY [Click here]() ...
-2. TO CLONE, TYPE: git clone ... INTO YOUR TERMINAL AND PRESS "ENTER"
+1. DOWNLOAD OR CLONE FROM GITHUB REPOSITORY [Click here](https://github.com/ProgramJustin/doctorFind) ...
+2. TO CLONE, TYPE: git clone https://github.com/ProgramJustin/doctorFind INTO YOUR TERMINAL AND PRESS "ENTER"
 3. OPEN UP THE FOLDER "THINK"
 4. DOUBLE-CLICK **index.html**
 
