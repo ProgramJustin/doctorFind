@@ -25,9 +25,11 @@
 * http://jsonprettyprint.com/
 
 ### COMPLETE SET-UP INSTRUCTIONS
-1. DOWNLOAD OR CLONE FROM GITHUB REPOSITORY [Click here](https://github.com/ProgramJustin/doctorFind) ...
+1. DOWNLOAD OR CLONE FROM GITHUB REPOSITORY [Click here](https://github.com/ProgramJustin/doctorFind)
 2. TO CLONE, TYPE: git clone https://github.com/ProgramJustin/doctorFind INTO YOUR TERMINAL AND PRESS "ENTER"
-3. OPEN UP THE FOLDER "THINK"
-4. DOUBLE-CLICK **index.html**
+3. THE RUN THIS APPLICATION INSTALL THE FOLLOWING PACKAGES: npm, bower, and gulp.
+4. TO LAUNCH THIS APPLICATION IN YOUR TERMINAL TYPE: gulp serve
+5. DON'T FORGET TO PRESS ENTER
+
 
 * Copyright 2017, Justin Gomez
